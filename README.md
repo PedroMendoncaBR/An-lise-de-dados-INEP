@@ -11,4 +11,4 @@ Analise das Escolas sem acesso a internet no Brasil (Últimos 5 anos)
 ### Descrição:
 - Demonstrar ao longo dos últimos cinco (5) anos, as escolas que não possuem acesso à internet.
 
-## Produzido por Pedro Rosa Mendonça (Github: PedroMendoncaBR)
+## Por Pedro Rosa Mendonça (Github: PedroMendoncaBR)
