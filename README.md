@@ -1,2 +1,2 @@
-# An-lise-de-dados-INEP
-Análise das Escolas sem acesso à internet no Brasil
+# Analise-de-dados-INEP
+Analise das Escolas sem acesso a internet no Brasil
