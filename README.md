@@ -8,4 +8,7 @@ Analise das Escolas sem acesso a internet no Brasil (Últimos 5 anos)
 - Jupyter Notebook
 - Microdados para execução dos dados disponíveis em inep.gov.br/microdados
 
-## Produzido por Pedro Rosa Mendonça
+### Descrição:
+- Demonstrar ao longo dos últimos cinco (5) anos, as escolas que não possuem acesso à internet.
+
+## Produzido por Pedro Rosa Mendonça (Github: PedroMendoncaBR)
