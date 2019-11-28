@@ -7,3 +7,5 @@ Analise das Escolas sem acesso a internet no Brasil
 - Python 3.00+ : Foram utilizadas as bibliotecas pandas e matplotlib
 - Jupyter Notebook
 - Microdados para execução dos dados disponíveis em inep.gov.br/microdados
+
+## Produzido por Pedro Rosa Mendonça
